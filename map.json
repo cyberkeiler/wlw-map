@@ -922,7 +922,7 @@
         {
          "columns":32,
          "firstgid":321,
-         "image":"..\/workadventure-map-alz10\/base_out_atlas.png",
+         "image":"base_out_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -1197,7 +1197,7 @@
         {
          "columns":32,
          "firstgid":1345,
-         "image":"..\/workadventure-map-alz10\/terrain_atlas.png",
+         "image":"terrain_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
